@@ -7,3 +7,4 @@ __pycache__/
 csv/
 parquet/
 .DS_STORE
+env.sh
