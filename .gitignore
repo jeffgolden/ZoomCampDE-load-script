@@ -1,2 +1,9 @@
 env/
+env39/
 __pycache__/
+*.csv.gz
+*.csv
+*.parquet
+csv/
+parquet/
+.DS_STORE
